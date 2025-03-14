@@ -1,5 +1,5 @@
-# HR-Analysis
-HR Analysis Project 
+# HR-Analytics
+HR Analytics Project 
 ## Project Description
 Cleaned and preprocessed HR datasets to ensure data quality and consistency, utilizing DAX (Data Analysis Expressions) to create calculated columns and measures for advanced analysis of genres, ratings, and trends. Designed dynamic dashboards in Power BI to visualize key insights, including average IMDb ratings by genre and decade-wise performance of top-rated movies. Conducted in-depth analysis to identify the highest-rated genres, years, and categories, providing valuable insights into industry trends.
 ## Tools
